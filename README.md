@@ -12,9 +12,9 @@ If everything goes well you can play the game by typing ./a.out into the termina
 Use arrow keys to control the snake, If the snake hits the boundary or itself the game exits and displays the score on the terminal.
 
 ### NOTE: 
-This is my first attempt in making a game in C, so you may find the code to be less readable.
-I used this video as a guide to make the game (https://www.youtube.com/watch?v=AaGK-fj-BAM)
-If you find it hard to understand the code, your better off watching the video.
+This is my first attempt in making a game in C, so you may find the code to be less readable.  
+I used this video as a guide to make the game (https://www.youtube.com/watch?v=AaGK-fj-BAM)  
+If you find it hard to understand the code, your better off watching the video.  
 
 
 Feel free to modify and use the code :)
